@@ -16,3 +16,7 @@ Program bisa menampilkan score pemain. Berikut ini aturan perhitungan scorenya:
 - Score minimal pemain adalah 0 (score negatif tidak diperbolehkan)
 - Apabila pemain bisa menebak angka secara benar dengan tidak lebih dari 5 tebakan, maka
 akan ada tambahan bonus score 50.
+
+### Menjalankan Program .jar
+- Menuju ke `dist` dengan `cd dist`
+- Jalankan `java -jar GameTebakAngka.jar`
